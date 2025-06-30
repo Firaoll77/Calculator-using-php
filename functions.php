@@ -1,6 +1,5 @@
 <?php
 
-    
     function myCalculator($num01, $operator, $num02){
         $sum;
         switch ($operator) {
@@ -26,5 +25,5 @@
     $operator = $_GET["operator"];
     $num02 = $_GET["num02"];
 
-    echo "Value: " .myCalculator($num01,$operator,$num02);
+    echo "Result: " .myCalculator($num01,$operator,$num02);
 ?>
