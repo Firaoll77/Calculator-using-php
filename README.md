@@ -15,7 +15,7 @@ A basic web-based calculator that performs arithmetic operations using PHP.
 2. Clone or download this repository to your web server's document root
 3. Access the calculator through your browser at `http://localhost/calculator/index.php`
 
-## Future Enhancements
+## Future Enhancements to be made
 
 - Add more operations (exponents, modulus, etc.)
 - Improve the UI with CSS styling
