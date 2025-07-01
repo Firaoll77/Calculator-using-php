@@ -17,7 +17,5 @@ A basic web-based calculator that performs arithmetic operations using PHP.
 
 ## Future Enhancements to be made
 
-- Add more operations (exponents, modulus, etc.)
-- Improve the UI with CSS styling
 - Add history of calculations
 - Implement client-side validation with JavaScript
