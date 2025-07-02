@@ -59,3 +59,10 @@ button:hover {
     border: solid #bbff97;
     color: white;
 }
+
+button.reset {
+    border: groove #ee171798;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .3s ease;
+}
