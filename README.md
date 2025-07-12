@@ -4,7 +4,7 @@ A basic web-based calculator that performs arithmetic operations using PHP.
 
 ## Features
 
-- Addition, subtraction, multiplication, and division
+- Operations like Addition, subtraction, multiplication, and division 
 - Simple web interface
 - Error handling for invalid inputs
 - Protection against division by zero
